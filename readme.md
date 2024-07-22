@@ -7,18 +7,6 @@
 
 🔭 I'm working on computer vision and deep learning. 
 
-
-
-
-<br/>
-
-<a href="https://github.com/xiazhi1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiazhi1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiazhi1&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
