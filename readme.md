@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Lunbin Zeng.</h2>
+<h2> Hi there 👋, this is Lunbin Zeng.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
