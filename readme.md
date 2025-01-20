@@ -5,7 +5,9 @@
 
 😄 I'm an undergraduate student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/))
 
-🔭 I'm working on computer vision and deep learning. 
+🔭 I'm working on deep learning. 
+
+🌱 My current research interest lies in LLM and Diffusion.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
