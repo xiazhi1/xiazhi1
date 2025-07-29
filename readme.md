@@ -7,7 +7,7 @@
 
 🔭 I'm working on deep learning. 
 
-🌱 My current research interest lies in LLM and Diffusion.
+🌱 My current research interest lies in LLM and MLLM.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
