@@ -3,7 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-😄 I'm an undergraduate student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/))
+😄 I'm a master student at Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn/)) , supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) 
+
+
 
 🔭 I'm working on deep learning. 
 
