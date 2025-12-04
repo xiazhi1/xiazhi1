@@ -15,5 +15,5 @@
 
 <p align="center">
 <a href="https://xiazhi1.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-xiazhi1.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:lbzeng@hust.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-lbzeng@hust.edu.cn-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lunbinzeng@hust.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-lunbinzeng@hust.edu.cn-blue?style=flat-square&logo=gmail"></a>
 </p>
